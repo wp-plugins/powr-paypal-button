@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: PayPal, paypal button, payments, ecommerce, donate button, checkout button, buy now button, paypal widget, paypal plugin, purchase button
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
