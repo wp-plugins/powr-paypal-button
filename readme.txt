@@ -22,7 +22,6 @@ First, download, install, and activate POWr Paypal Button. Then drop the widget 
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-paypal-button-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Fully-customizable fonts, colors, sizing, and more.
 * Receive payments or donations to any PayPal account.
@@ -36,8 +35,10 @@ First, download, install, and activate POWr Paypal Button. Then drop the widget 
 * Eliminate all POWr logos and watermarks
 * Discount Options - add discounts on a Flat Rate, Percentage Rate, or via Promo Code.
 * Redirect After Payment - send your customers to a new page after payment.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Paypal Button.
