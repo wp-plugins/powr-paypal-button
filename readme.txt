@@ -40,6 +40,7 @@ First, download, install, and activate POWr Paypal Button. Then drop the widget 
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Paypal Button.
 <br>
