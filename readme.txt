@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: payment processing, payments pro, checkout, wp paypal, shortcode, responsive design, easy, personalize, customize, optimize, sidebar, subscriptions, membership, recurring payment, drag and drop, WYSIWYG, mobile responsive, pay with paypal, paypal payment, paypal transfer, transfer funds, send money, accept paypal, pay online, secure, accept donations, PayPal, paypal button, payments, ecommerce, donate button, checkout button, buy now button, paypal widget, paypal plugin, purchase button, powr paypal
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,20 +26,14 @@ First, download, install, and activate POWr Paypal Button. Then drop the widget 
 * Fully-customizable fonts, colors, sizing, and more.
 * Receive payments or donations to any PayPal account.
 * Set up recurring payments for subscriptions and memberships.
-* Easily add coupon codes, special discounts, sales, and more.
+* Add discounts by flat rate, percentage, or promo code.
+* Redirect shoppers to new page after payment.
 * Add shipping and handling, or tax to any purchase.
-* Support for multiple currencies available.
+* Support for 25+ currencies available.
+* View statistics for traffic and page views
 * Built-in support for text in any language. 
 * Mobile responsive design looks great on any device.
 <br>
-= Upgrade ($2.99)/mo and: =
-* Eliminate all POWr logos and watermarks
-* Discount Options - add discounts on a Flat Rate, Percentage Rate, or via Promo Code.
-* Redirect After Payment - send your customers to a new page after payment.
-* Enable plugin analytics to measure visitors and page views
-* Receive premium POWr support
-* Support the development of other great plugins
-
 
 
 == Installation ==
