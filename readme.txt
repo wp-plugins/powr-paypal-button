@@ -9,10 +9,10 @@ Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Get paid through this custom PayPal button!
+Get paid through this custom PayPal Button!
 
 == Description ==
- Get paid through this custom PayPal button!
+[youtube https://www.youtube.com/watch?v=OdUHShj0NpA] Get paid through this custom PayPal Button!
 <br>
 <br>
 POWr Paypal Button is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
